@@ -5,4 +5,5 @@
 3. Raspberry PI with Node-Red and MQTT broker. Visualisation nodeRed dashboard
 
 Read all available modbus information from the PowerMeter. Code is fully working.
+
 If somebody needs I also have Modbus/TCP-IP(port502) Version but I changed all my home devices to MQTT protocol.
