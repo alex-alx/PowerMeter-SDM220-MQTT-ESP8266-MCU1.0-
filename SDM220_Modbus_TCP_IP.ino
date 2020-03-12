@@ -5,7 +5,8 @@
  *  1. Power meter MDS220 -> Modbus 485 TTL -> Modbus TCP-IP (port 502)
  *  2. Other side Raspberry PI with Modbus master and pooling data over (port502)
  *  
- *  Additionally added display for testing purposes (#include <LiquidCrystal_I2C.h>)
+ *  Additionally added display for testing purposes (#include <LiquidCrystal_I2C.h>) and some /Comment lines/
+ *  
  */
 
 #include <ESP8266WiFi.h>
