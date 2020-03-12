@@ -3,7 +3,7 @@
     Modified by AlexAlx 2020
     ************************************************************
      
-   original *** esp-sdm-mqtt - patrik.mayer@codm.de
+    ____ original *** esp-sdm-mqtt - patrik.mayer@codm.de _____
 
     SDMXXX (SDM120 / SDM220 / SDM630) series power meters from eastron over modbus
     using an esp8266 and an 3.3V RS485 tranceiver.
