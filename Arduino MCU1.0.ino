@@ -1,18 +1,16 @@
 /*
-    original *** esp-sdm-mqtt - patrik.mayer@codm.de
     ************************************************************
     Modified by AlexAlx 2020
     ************************************************************
+     
+   original *** esp-sdm-mqtt - patrik.mayer@codm.de
+
     SDMXXX (SDM120 / SDM220 / SDM630) series power meters from eastron over modbus
     using an esp8266 and an 3.3V RS485 tranceiver.
 
     This uses the SDM library by reaper7 https://github.com/reaper7/SDM_Energy_Meter
     mqtt client from https://github.com/knolleary/pubsubclient/
     Tasker from https://github.com/sticilface/Tasker
-    
-    Arduino OTA from ESP8266 Arduino Core V2.4
-
-    As this is not finished yet, the documentation will get better by time.
 
 */
 
